@@ -35,10 +35,8 @@ I am strategic, detail-oriented, innovative, and highly collaborative, qualities
 <h3 align="left">📚 Current Learning</h3>
 <ul align="left">
   <li>🤖 Pushing deeper into Machine Learning & AI.</li>
-  <li>⚡  Experimenting with advanced data science workflows.</li>
   <li>☁️ Leveling up in cloud computing (AWS & Azure).</li>
 </ul>
-
 
 
  **⚡Core Competencies**
