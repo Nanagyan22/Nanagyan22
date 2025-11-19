@@ -38,7 +38,6 @@ I am strategic, detail-oriented, innovative, and highly collaborative, qualities
   <li>☁️ Leveling up in cloud computing (AWS & Azure).</li>
 </ul>
 
-
  **⚡Core Competencies**
 
 📌 Machine Learning & AI: Build predictive models and intelligent systems with Python and ML libraries.
@@ -48,9 +47,7 @@ I am strategic, detail-oriented, innovative, and highly collaborative, qualities
 📌 Data Visualization & BI: Design dashboards and visualizations with Power BI, Tableau, and Excel.
 
 📌 SQL & Database Management: Query and manage data in SQL Server, MySQL, and PostgreSQL.
-
 ----
-
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
