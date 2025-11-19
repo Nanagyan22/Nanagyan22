@@ -47,6 +47,7 @@ I am strategic, detail-oriented, innovative, and highly collaborative, qualities
 📌 Data Visualization & BI: Design dashboards and visualizations with Power BI, Tableau, and Excel.
 
 📌 SQL & Database Management: Query and manage data in SQL Server, MySQL, and PostgreSQL.
+
 ----
 <!--Contact Section--> 
 
