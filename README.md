@@ -22,7 +22,6 @@ I have applied my skills to projects involving predictive modeling, automated wo
 
 I am strategic, detail-oriented, innovative, and highly collaborative, qualities that enable me to translate complex data into clear insights and build solutions that are not only technically sound but also aligned with organizational goals.
 <!--End Intro-->
-----
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
